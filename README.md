@@ -60,6 +60,7 @@ pip install streamlit
 ``` bash
 pip install pydub
 pip install soundfile
+pip install streamlit librosa joblib matplotlib numpy soundfile
 ```
 
 Jalankan di VS Code
@@ -71,3 +72,4 @@ Jalankan di VS Code
 ``` bash
 streamlit run app.py
 ```
+
